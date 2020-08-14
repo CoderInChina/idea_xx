@@ -13,4 +13,9 @@ public class Demo1Test {
         System.out.println(" public void aaa()。。。。。。");
     }
 
+    public void zhansgan_aaa()
+    {
+        System.out.println(" zhansgan_aaa()");
+    }
+
 }
