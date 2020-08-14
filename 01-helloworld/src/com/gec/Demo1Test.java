@@ -18,4 +18,9 @@ public class Demo1Test {
         System.out.println(" zhansgan_aaa()");
     }
 
+    public void lisi_bb()
+    {
+        System.out.println("lisi_bb()");
+    }
+
 }
