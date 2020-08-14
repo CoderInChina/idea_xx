@@ -7,4 +7,10 @@ public class Demo1Test {
         System.out.println(" public void addUser()....");
     }
 
+
+    public void aaa()
+    {
+        System.out.println(" public void aaa()。。。。。。");
+    }
+
 }
